@@ -98,7 +98,7 @@ and added to our list of items.
 npm install
 
 ## Run the app
-npm run dev
+npm run de
 
 ## Run tests
 npm test
