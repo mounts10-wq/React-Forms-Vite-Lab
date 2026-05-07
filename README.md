@@ -93,3 +93,12 @@ and added to our list of items.
 ## Resources
 
 - [React Forms](https://facebook.github.io/react/docs/forms.html)
+
+## Setup
+npm install
+
+## Run the app
+npm run dev
+
+## Run tests
+npm test
